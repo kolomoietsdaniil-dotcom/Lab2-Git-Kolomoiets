@@ -1,1 +1,1 @@
-Main subjects: math, programming, physics, English
+Main subjects: math, programming, physics, English, Operating systems, Control versions Git
